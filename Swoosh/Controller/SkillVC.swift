@@ -9,6 +9,8 @@
 import UIKit
 
 class SkillVC: UIViewController {
+    var skillPlayer : Player!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
